@@ -1,0 +1,22 @@
+h1 {color: red;}
+
+h2 {color: red;
+font-style: italic;}
+
+ol {color: brown;}
+ul {color: brown;}
+
+p {
+    color: firebrick;
+}
+
+.bold{
+    text-decoration: line-through;
+}
+.color{
+    background-color: yellow;
+}
+
+
+
+
